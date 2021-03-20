@@ -1,0 +1,2 @@
+import pygame
+help(pygame)
